@@ -25,3 +25,5 @@ CREATE TABLE medida (
 	momento DATETIME,
 	fk_aquario INT
 );
+
+SELECT * FROM usuario;
